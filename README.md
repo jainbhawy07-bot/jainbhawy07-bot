@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bhawy Jain 👋
 
-<!--
-**jainbhawy07-bot/jainbhawy07-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a student passionate about Microsoft Excel, Google Sheets, Data Entry, and Data Analysis.
 
-Here are some ideas to get you started:
+## Skills
+- Microsoft Excel
+- Google Sheets
+- Data Entry
+- Data Cleaning
+- Pivot Tables
+- Dashboard Creation
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Student Attendance Tracker
+Attendance management system with automated percentage calculations.
+
+### Expense Report
+Personal expense analysis and reporting system.
+
+### Sales Dashboard and Analysis
+Sales dashboard with revenue calculations, charts, and KPI tracking.
+
+## Goals
+- Gain practical experience through internships
+- Improve Excel and Data Analysis skills
+- Build a strong professional portfolio
+
+## Contact
+GitHub: github.com/jainbhawy07-bot
